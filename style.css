@@ -64,6 +64,12 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+}
+
+.habit p{
+  font-size: 15px;
+  font-family: "Inter";
 }
 
 .days {
